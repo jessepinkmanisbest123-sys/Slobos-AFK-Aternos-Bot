@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MTSMP-K29K.aternos.me
-",
+    "ip": "MTSMP-K29K.aternos.me",
     "port": 27586,
     "version": "",
     "try-creative": false
